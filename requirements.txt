@@ -1,0 +1,7 @@
+pymysql 
+cv2 
+pyaudio 
+vidstream 
+pandas 
+
+
